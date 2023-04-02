@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TimetableWithLoop {
     public static void main(String[] args) {
-        char group, response, groupLetter;
+        char  response, groupLetter;
         int groupNo = 5, i;
 
         Scanner keyIn = new Scanner(System.in);
