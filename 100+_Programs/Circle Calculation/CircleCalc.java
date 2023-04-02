@@ -19,10 +19,11 @@ public class CircleCalc {
                     nameOption = "Enter";
                 } else if (i == 2) {
                     name = "circumference";
+                    nameOption = "Display";
                 } else {
                     name = "area";
                 }
-                System.out.println("[" + i + "]" + nameOption + "the " + name + "  of the circle");
+                System.out.println("[" + i + "] " + nameOption + " the " + name + "  of the circle");
             }
 
             System.out.println("Enter choice 1,2,3,4");
@@ -50,8 +51,8 @@ public class CircleCalc {
     // option to get radius of circle
     static double getRadius() {
         double myRadius;
-        Scanner keyIn = new Scanner(System.in);
-        ;
+        System.out.println("Enter Radius");
+           Scanner keyIn = new Scanner(System.in);
         return myRadius = keyIn.nextDouble(); // return radius entered by user
     }
 
