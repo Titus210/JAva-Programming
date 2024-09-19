@@ -1,5 +1,3 @@
-Let's create a similar roadmap for learning Java, with real-world tasks for each topic. These tasks will help reinforce your understanding of Java while progressively increasing in complexity.
-```markdown
 # Java Programming Practice Tasks
 
 ## Table of Contents
