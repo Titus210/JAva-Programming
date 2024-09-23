@@ -24,7 +24,7 @@
 
 ### Task 1: Hello, World!
 - [ ] Write a simple Java program that prints "Hello, World!" to the console.
-- Solution: [Task 1 Solution](#)
+- Solution: [Task 1 Solution](./PrintHello/hello.java)
 
 ### Task 2: Sum of Two Numbers
 - [ ] Create a Java program that calculates and prints the sum of two numbers.
