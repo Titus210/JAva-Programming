@@ -1,3 +1,4 @@
+package Practices.PersonalInfo;
 import java.util.Scanner;
 
 public class personal {
