@@ -36,7 +36,7 @@
 
 ### Task 4: Current Date and Time
 - [ ] Create a program that prints the current date and time using Java's built-in libraries.
-- Solution: [Task 4 Solution](#)
+- Solution: [Task 4 Solution](./DateandTime/dateTime.java)
 
 ## 2. Variables and Data Types
 
