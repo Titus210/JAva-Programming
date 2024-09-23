@@ -28,7 +28,7 @@
 
 ### Task 2: Sum of Two Numbers
 - [ ] Create a Java program that calculates and prints the sum of two numbers.
-- Solution: [Task 2 Solution](#)
+- Solution: [Task 2 Solution](./SumofTwo/sum.java)
 
 ### Task 3: Display Personal Information
 - [ ] Write a Java program that displays your name, age, and favorite hobby.
