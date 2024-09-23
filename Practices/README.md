@@ -32,7 +32,7 @@
 
 ### Task 3: Display Personal Information
 - [ ] Write a Java program that displays your name, age, and favorite hobby.
-- Solution: [Task 3 Solution](#)
+- Solution: [Task 3 Solution](./PersonalInfo/personal.java)
 
 ### Task 4: Current Date and Time
 - [ ] Create a program that prints the current date and time using Java's built-in libraries.
