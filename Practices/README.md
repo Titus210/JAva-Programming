@@ -42,15 +42,15 @@
 
 ### Task 1: Declare and Print Variables
 - [ ] Declare variables of different data types (int, double, char, String, boolean) and print their values.
-- Solution: [Task 1 Solution](#)
+- Solution: [Task 1 Solution](./PrintVariables/printVariables.java)
 
 ### Task 2: Temperature Conversion
 - [ ] Write a Java program that converts a temperature from Celsius to Fahrenheit and vice versa.
-- Solution: [Task 2 Solution](#)
+- Solution: [Task 2 Solution](./CelsiusToFahrenheit/tempToFahrenheit.java)
 
 ### Task 3: Calculate BMI
 - [ ] Create a program that takes a user’s height in meters and weight in kilograms and calculates their Body Mass Index (BMI).
-- Solution: [Task 3 Solution](#)
+- Solution: [Task 3 Solution](./CalculateBMI/calculateBMI.java)
 
 ### Task 4: Area and Perimeter of a Rectangle
 - [ ] Write a program that calculates the area and perimeter of a rectangle using variables for length and width.
