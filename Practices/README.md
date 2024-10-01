@@ -54,7 +54,7 @@
 
 ### Task 4: Area and Perimeter of a Rectangle
 - [ ] Write a program that calculates the area and perimeter of a rectangle using variables for length and width.
-- Solution: [Task 4 Solution](#)
+- Solution: [Task 4 Solution](./TriangleAreaParameter/triangleAreaParameter.java)
 
 ## 3. Operators and Expressions
 
