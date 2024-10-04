@@ -64,7 +64,7 @@
 
 ### Task 2: Even or Odd
 - [ ] Create a program that checks if a number is even or odd using the modulus operator.
-- Solution: [Task 2 Solution](#)
+- Solution: [Task 2 Solution](./oddOrEven/oddOrEven.java)
 
 ### Task 3: Simple Calculator
 - [ ] Implement a simple calculator that takes two numbers and an operator (+, -, *, /) as input, then prints the result.
