@@ -68,7 +68,7 @@
 
 ### Task 3: Simple Calculator
 - [ ] Implement a simple calculator that takes two numbers and an operator (+, -, *, /) as input, then prints the result.
-- Solution: [Task 3 Solution](#)
+- Solution: [Task 3 Solution](./Calculator/calculator.java)
 
 ### Task 4: Compound Interest
 - [ ] Write a program that calculates the compound interest for a given principal, rate, and time.
