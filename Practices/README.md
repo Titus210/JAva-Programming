@@ -72,7 +72,7 @@
 
 ### Task 4: Compound Interest
 - [ ] Write a program that calculates the compound interest for a given principal, rate, and time.
-- Solution: [Task 4 Solution](#)
+- Solution: [Task 4 Solution](./compoundInterest/compoundInterest.java)
 
 ## 4. Conditional Statements
 
