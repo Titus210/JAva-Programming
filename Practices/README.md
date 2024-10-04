@@ -60,7 +60,7 @@
 
 ### Task 1: Basic Arithmetic Operations
 - [ ] Write a Java program that takes two numbers as input and prints the result of adding, subtracting, multiplying, and dividing them.
-- Solution: [Task 1 Solution](#)
+- Solution: [Task 1 Solution](./basicArithmetic/basicAritmetic.java)
 
 ### Task 2: Even or Odd
 - [ ] Create a program that checks if a number is even or odd using the modulus operator.
